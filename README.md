@@ -43,6 +43,13 @@ apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/ConectaLS/SSHPLU
 bash <(wget -qO- raw.githubusercontent.com/ConectaLS/SSHPLUS/main/ssh-plus)
 
 ```
+# Após instalar atualizar a conexão manualmente
+````
+rm -f /usr/bin/proxy; curl -s -L -o /usr/bin/proxy https://github.com/Penguinehis/ProxyCracked/raw/main/DT%201.2.6/x86_64/proxy; chmod 777 /usr/bin/proxy
+
+ativar:
+screen -dmS proxy /usr/bin/proxy --response DTPROXY --http --port 80&
+````
 
 # Instalar Direto e Máquinas 64!
 
