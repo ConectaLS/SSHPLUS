@@ -1,7 +1,11 @@
 # SSH-PLUS ⚡
 
 
-# @MIUISSHPLUSBR
+# @LSPLUS
+
+````
+Script em modificação breve novidades!
+````
 
 ✅ V2RAY  FUNCIONANDO
 
