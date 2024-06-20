@@ -35,19 +35,19 @@
 
 # OPÇÃO 1
 ````
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/MIUISSHLLUSBR/PLUS/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/ConectaLS/SSHPLUS/main/ssh-plus)
 ````
 
 # OPÇÃO 2
 ```
-bash <(wget -qO- raw.githubusercontent.com/MIUISSHLLUSBR/PLUS/main/ssh-plus)
+bash <(wget -qO- raw.githubusercontent.com/ConectaLS/SSHPLUS/main/ssh-plus)
 
 ```
 
 # Instalar Direto e Máquinas 64!
 
 ````
-wget https://raw.githubusercontent.com/MIUISSHLLUSBR/PLUS/main/script/64/ssh-plus ; chmod +x Plus ; ./Plus
+wget raw.githubusercontent.com/ConectaLS/SSHPLUS/main/script/64/ssh-plus ; chmod +x Plus ; ./Plus
 ````
 
 
