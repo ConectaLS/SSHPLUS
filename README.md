@@ -66,7 +66,7 @@ wget raw.githubusercontent.com/ConectaLS/SSHPLUS/main/script/64/ssh-plus ; chmod
 
 
 ```
-wget https://www.dropbox.com/s/wpi8v0i5slfm0uf/TBotPlus_Cliente_2008_v1.0.9.zip; unzip TBotPlus_Cliente_*.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh && wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash && source ~/.profile && nvm install 16 && terminus
+wget https://www.dropbox.com/scl/fi/pwdopnnx2in2pzcsq59ub/TBotPlus_Cliente_2008_v1.0.9.zip; unzip TBotPlus_Cliente_*.zip && cd TBotPlus; chmod +x TerminusBot.sh && ./TerminusBot.sh && wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash && source ~/.profile && nvm install 16 && terminus
 ````
 
 # PARA TER ACESSO AS OPÇÕES  OU MENU DO BOT E SO DIGITAR:
